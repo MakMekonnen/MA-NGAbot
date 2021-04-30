@@ -1,0 +1,2 @@
+# MANGAbot
+multipurpose discord bot
